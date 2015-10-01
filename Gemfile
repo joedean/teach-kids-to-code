@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'bootstrap-generators', '~> 3.3.4'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'devise'
